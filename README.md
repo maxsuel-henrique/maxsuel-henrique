@@ -1,4 +1,12 @@
+<div align="center">
+
 <img src="./banner_codigo.svg" alt="Banner de Maxsuel Henrique" width="100%">
+
+<br>
+
+<a href="https://www.linkedin.com/in/maxsuel-henrique-rodrigues-dos-santos/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.instagram.com/maxtech04_/"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
+
+</div>
 
 # Maxsuel Henrique
 
