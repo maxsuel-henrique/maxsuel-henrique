@@ -17,9 +17,9 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Maxsuel Henrique
+# Maxsuel Henrique
 
-### `Estudante de Engenharia de Software` • `QA` • `Tecnologia`
+### `Estudante de Engenharia de Software` • `QA` • `Inteligência Artificial` • `Tecnologia`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Forte+interesse+em+Quality+Assurance;Explorando+Python%2C+JavaScript+e+PostgreSQL;Construindo+minha+trajet%C3%B3ria+na+Tecnologia" alt="Typing Animation">
 
