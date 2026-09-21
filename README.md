@@ -17,6 +17,8 @@
 
 <div align="center">
 
+<img src="./banner_codigo.svg" alt="Banner de Maxsuel Henrique" width="100%">
+
 # Maxsuel Henrique
 
 ### `Estudante de Engenharia de Software` • `QA` • `Inteligência Artificial` • `Tecnologia`
