@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="./banner_codigo.svg" alt="Banner de Maxsuel Henrique" width="100%">
-</div>
-
-<div align="center">
 
 # Maxsuel Henrique
 
