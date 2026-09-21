@@ -8,7 +8,7 @@
 
 ### `Estudante de Engenharia de Software` • `QA` • `Inteligência Artificial` • `Tecnologia`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+e+Inteligência+Artificial;Forte+interesse+em+Quality+Assurance;Explorando+Python%2C+Cypress+e+PostgreSQL;Construindo+minha+trajet%C3%B3ria+na+Tecnologia" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=750&lines=Estudante+de+Engenharia+de+Software;Foco+em+Quality+Assurance;Python+%7C+Cypress+%7C+PostgreSQL;Testar.+Encontrar.+Melhorar.;Construindo+minha+trajet%C3%B3ria+na+Tecnologia" alt="Typing Animation">
 
 </div>
 
