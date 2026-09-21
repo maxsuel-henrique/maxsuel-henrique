@@ -93,19 +93,5 @@ Meu objetivo é transformar conhecimento em prática por meio de projetos, exper
 
 </div>
 
----
 
-<div align="center">
-
-### `code` • `learn` • `test` • `improve`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=maxsuel-henrique&label=Profile%20Views&color=2196F3&style=flat" alt="Profile Views">
-
-<br><br>
-
-**Construindo conhecimento, um commit por vez.**
-
-</div>
 
