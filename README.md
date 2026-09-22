@@ -69,11 +69,11 @@ Meu objetivo é transformar conhecimento em prática por meio de projetos, exper
 
 <div align="center">
 
-|     Projeto     |                Descrição               |        Status        |
-| :-------------: | :------------------------------------: | :------------------: |
-| 🔜 **Em breve** |       Projetos em desenvolvimento      | `Em desenvolvimento` |
-| 🔜 **Em breve** |        Novos projetos e estudos        | `Em desenvolvimento` |
-| 🔜 **Em breve** | Projetos voltados para tecnologia e QA | `Em desenvolvimento` |
+|         Projeto            |                Descrição               |        Status        |        Link         |
+| :------------------------: | :------------------------------------: | :------------------: |:------------------: |
+| 🔜 **Projeto Restaurante** |       Último projeto realizado         | `Concluído`          |                     |
+| 🔜 **Em breve**            |        Novos projetos e estudos        | `Em desenvolvimento` |
+| 🔜 **Em breve**            | Projetos voltados para tecnologia e QA | `Em desenvolvimento` |
 
 </div>
 
