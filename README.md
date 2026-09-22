@@ -71,7 +71,7 @@ Meu objetivo é transformar conhecimento em prática por meio de projetos, exper
 
 |         Projeto            |                Descrição               |        Status        |        Link         |
 | :------------------------: | :------------------------------------: | :------------------: |:------------------: |
-| 🔜 **Projeto Restaurante** |       Último projeto realizado         | `Concluído`          |                     |
+| 🔜 **Projeto Restaurante** |       Último projeto realizado         | `Concluído`          | 'https://github.com/maxsuel-henrique/projeto-restaurante'|
 | 🔜 **Em breve**            |        Novos projetos e estudos        | `Em desenvolvimento` |
 | 🔜 **Em breve**            | Projetos voltados para tecnologia e QA | `Em desenvolvimento` |
 
